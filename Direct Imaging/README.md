@@ -12,11 +12,11 @@
 
   GAN's are creative Neural Network technique which are highly used to create images which resemble close to the fed input images.
 
-![alt text](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0001.png)
+![alt text-1](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0001.png)
 
-![alt text](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0030.png)
+![alt text-1](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0030.png)
 
-![alt text](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_1509.png)
+![alt text-1](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_1509.png)
 
    
 
