@@ -16,7 +16,10 @@
 
 
 
-![alt text-3](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0001.png "Input Noise") ![alt text-4](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0030.png "Middle of training") ![alt text-5](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_1509.png "Final result representing the")
+The file is
+
+
+![alt text-1](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0001.png "Input") ![alt text-2](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_0030.png "Middle") ![alt text-3](https://github.com/Bharath-Chowdhary-N/Artificial-Intelligence/blob/local/Direct%20Imaging/Images%20for%20Presentation/image_at_epoch_1509.png "Final")
 
    
 
